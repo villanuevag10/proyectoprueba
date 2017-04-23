@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="example.com.co.taller">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Principal">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Areas" />
+        <activity android:name=".Volumenes" />
+        <activity android:name=".Reporte" />
+        <activity android:name=".AreasP.Cuadrado" />
+        <activity android:name=".Mostrar" />
+        <activity android:name=".AreasP.Triangulo" />
+        <activity android:name=".AreasP.Rectangulo" />
+        <activity android:name=".AreasP.Circulo" />
+        <activity android:name=".VolumenesP.Esfera" />
+        <activity android:name=".VolumenesP.Cilindro" />
+        <activity android:name=".VolumenesP.Cono" />
+        <activity android:name=".VolumenesP.Cubo"></activity>
+    </application>
+
+</manifest>

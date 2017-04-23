@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="Cuadrado">Square</string>
+    <string name="area">Areas</string>
+    <string name="borrar">Erase</string>
+    <string name="calcular">Calculate</string>
+    <string name="cilindro">Cilinder</string>
+    <string name="circulo">Circle</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="datos">Data</string>
+    <string name="error">Emtpy Field</string>
+    <string name="esfera">Sphere</string>
+    <string name="opc">Options</string>
+    <string name="operacion">Operation</string>
+    <string name="realizadas">Operation List</string>
+    <string name="rectangulo">Rectangle</string>
+    <string name="resultado">Result</string>
+    <string name="title_activity_operacion">Operation</string>
+    <string name="triangulo">Triangle</string>
+    <string name="valor_altura">Height</string>
+    <string name="valor_base">Base</string>
+    <string name="valor_del_lado">Side</string>
+    <string name="valor_radio">Radio</string>
+    <string name="volu">Volume</string>
+</resources>

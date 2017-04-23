@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="opc">Opciones</string>
+    <string-array name="opcArray">
+        <item>Areas</item>
+        <item>Volumenes</item>
+        <item>Operaciones Realizadas</item>
+    </string-array>
+    <string name="title_activity_operacion">Operacion</string>
+    <string name="area">Areas</string>
+    <string-array name="opcAreas">
+        <item>Cuadrado</item>
+        <item>Triangulo</item>
+        <item>Rectangulo</item>
+        <item>Circulo</item>
+    </string-array>
+    <string name="volu">Volumenes</string>
+    <string name="Cuadrado">Cuadrado</string>
+    <string name="valor_del_lado">Valor del Lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="resultado">Resultado</string>
+    <string name="btn_ok" translatable="false">Ok</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="valor_base">Valor de la Base</string>
+    <string name="valor_altura">Valor de la Altura</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="valor_radio">Valor del Radio</string>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="error">Rellene el Campo</string>
+    <string name="realizadas">Realizadas</string>
+    <string-array name="opcVolu">
+        <item>Esfera</item>
+        <item>Cilindro</item>
+        <item>Cono</item>
+        <item>Cubo</item>
+    </string-array>
+
+</resources>
